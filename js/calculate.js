@@ -6,3 +6,4 @@ export default function calculate() {
   resultInput.value = result
   resultInput.classList.remove("error")
 }
+
